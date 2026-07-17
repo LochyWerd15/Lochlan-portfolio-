@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lochlan Werdell | Outdoor Athlete</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f7f5;
+    color:#222;
+}
+header{
+    background:url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=80") center/cover;
+    height:60vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    text-align:center;
+}
+header h1{
+    font-size:4rem;
+    margin:0;
+}
+header p{
+    font-size:1.3rem;
+}
+section{
+    max-width:900px;
+    margin:auto;
+    padding:60px 25px;
+}
+h2{
+    color:#2e6b42;
+}
+.card{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+footer{
+    background:#2e6b42;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+.button{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:#2e6b42;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<div>
+<h1>Lochlan Werdell</h1>
+<p>Mountain Biker • Mountaineer • Outdoor Creator</p>
+</div>
+</header>
+
+<section>
+<div class="card">
+<h2>About Me</h2>
+
+<p>My passion for the outdoors has been a driving force in my life from an early age. Over the years, that passion has grown into a commitment to exploring, challenging myself, and inspiring others to connect with nature.</p>
+
+<p>Whether I'm mountain biking, mountaineering, hiking, or backpacking, I enjoy pushing my limits while appreciating the landscapes around me. Every adventure provides an opportunity to learn, grow, and create meaningful experiences that I can share with others.</p>
+
+<p>I believe the outdoors has the power to bring people together and encourage personal growth. Through authentic content and storytelling, I strive to inspire my audience to get outside, explore new places, and embrace an active lifestyle.</p>
+
+<p>I'm seeking partnerships with brands that share these values and are passionate about encouraging outdoor exploration. I take pride in representing products I genuinely believe in while creating engaging, high-quality content.</p>
+
+<a href="#" class="button">Work With Me</a>
+
+</div>
+</section>
+
+<footer>
+© 2026 Lochlan Werdell
+</footer>
+
+</body>
+</html><section>
+  <div class="card">
+    <h2>Let's Work Together</h2>
+
+    <p>
+      I’m always interested in partnering with brands that share a passion for
+      adventure, outdoor recreation, and authentic storytelling.
+    </p>
+
+    <p>
+      If you’re looking for engaging content, product reviews, photography, or
+      long-term ambassador opportunities, I’d love to connect.
+    </p>
+
+    <a href="mailto:your-email@example.com" class="button">
+      Contact Me
+    </a>
+  </div>
+</section>
+<section>
+  <section>
+  <div class="card">
+    <h2>Follow My Journey</h2>
+
+    <p>
+      Follow my outdoor adventures through mountain biking, mountaineering,
+      hiking, and exploring the places that inspire me. I share authentic
+      experiences, outdoor photography, and content focused on adventure,
+      growth, and connecting with nature.
+    </p>
+
+    <p>
+      Join me as I continue to push boundaries, discover new landscapes, and
+      inspire others to get outside and create their own adventures.
+    </p>
+
+    <a href="https://www.instagram.com/loch_powmotion/" class="button" target="_blank">
+      Follow @loch_powmotion on Instagram
+    </a>
+  </div>
+</section>
+<section>
+  <div class="card">
+    <h2>Contact</h2>
+
+    <p>
+      I’m always open to connecting with outdoor brands, organizations, and
+      individuals who share a passion for adventure, exploration, and creating
+      meaningful experiences in nature.
+    </p>
+
+    <p>
+      For partnership opportunities, collaborations, content creation, or
+      general inquiries, feel free to reach out.
+    </p>
+
+    <a href="mailto:loch.werdell@gmail.com" class="button">
+      Email Me
+    </a>
+
+    <p>
+      Email: loch.werdell@gmail.com
+    </p>
+  </div>
+</section>
+<section>
+  <div class="card">
+    <h2>Adventure Photography</h2>
+
+    <p>
+      Through photography, I capture the experiences, challenges, and moments
+      that make every adventure meaningful. Each image represents my passion
+      for exploring the outdoors, from mountain biking and mountaineering to
+      hiking, backpacking, and discovering new landscapes.
+    </p>
+
+    <p>
+      My goal is to share authentic stories through high-quality outdoor
+      photography that inspires others to explore, challenge themselves, and
+      build a deeper connection with nature.
+    </p>
+
+    <p>
+      These photos showcase my journey, the places I’ve explored, and the
+      experiences that continue to shape my passion for the outdoors.
+    </p>
+  </div>
+</section>
+IMG_0019.jpg
+  IMG_0028.jpg
+  IMG_3809.jpg
+  IMG_0021.jpg
+  IMG_3881.jpg
+  IMG_2769.jpg
+  IMG_2741.jpg
+  IMG_4041.jpg
+  IMG_4147.jpg
+  IMG_4121.jpg
+  IMG_8318.jpg
+  IMG_3612.jpg
+  IMG_3522.jpg
+  <section>
+  <div class="card">
+    <h2>Thank You for Visiting</h2>
+
+    <p>
+      Thank you for taking the time to explore my portfolio. Every adventure
+      represents a chance to learn, grow, and create meaningful connections
+      with the outdoors.
+    </p>
+
+    <p>
+      I look forward to continuing to share my journey, inspiring others to
+      explore nature, and partnering with brands that value adventure,
+      authenticity, and outdoor experiences.
+    </p>
+
+    <p>
+      Let's continue exploring what the outdoors has to offer.
+    </p>
+  </div>
+</section>
