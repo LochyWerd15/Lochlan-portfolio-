@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lochlan Werdell | Outdoor Athlete</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f7f5;
+    color:#222;
+}
+header{
+    background:url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=80") center/cover;
+    height:60vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    text-align:center;
+}
+header h1{
+    font-size:4rem;
+    margin:0;
+}
+header p{
+    font-size:1.3rem;
+}
+section{
+    max-width:900px;
+    margin:auto;
+    padding:60px 25px;
+}
+h2{
+    color:#2e6b42;
+}
+.card{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+footer{
+    background:#2e6b42;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+.button{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:#2e6b42;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<div>
+<h1>Lochlan Werdell</h1>
+<p>Mountain Biker • Mountaineer • Outdoor Creator</p>
+</div>
+</header>
+
+<section>
+<div class="card">
+<h2>About Me</h2>
+
+<p>My passion for the outdoors has been a driving force in my life from an early age. Over the years, that passion has grown into a commitment to exploring, challenging myself, and inspiring others to connect with nature.</p>
+
+<p>Whether I'm mountain biking, mountaineering, hiking, or backpacking, I enjoy pushing my limits while appreciating the landscapes around me. Every adventure provides an opportunity to learn, grow, and create meaningful experiences that I can share with others.</p>
+
+<p>I believe the outdoors has the power to bring people together and encourage personal growth. Through authentic content and storytelling, I strive to inspire my audience to get outside, explore new places, and embrace an active lifestyle.</p>
+
+<p>I'm seeking partnerships with brands that share these values and are passionate about encouraging outdoor exploration. I take pride in representing products I genuinely believe in while creating engaging, high-quality content.</p>
+
+<a href="#" class="button">Work With Me</a>
+
+</div>
+</section>
+
+<footer>
+© 2026 Lochlan Werdell
+</footer>
+
+</body>
+</html>
